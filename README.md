@@ -59,6 +59,7 @@ Analyze order data to:
 FoodHubOrder_Analysis/
 ├── foodhub_order.csv
 ├── FoodhubOrder_analysis.ipynb
-├── README.md
+├── How-to-convert-your-Notebook-to-PDF.pdf
+└── README.md
 
 ```
